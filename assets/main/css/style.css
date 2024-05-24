@@ -22,6 +22,9 @@
     color: #000000;
   }
   .item:hover{
+    color: #7c7b79e7;
+  }
+  .activ{
     color: #FF6464;
   }
   /* nav end */
@@ -77,6 +80,10 @@
     font-weight: 700;
     font-family: 'Heebo';
     font-size: 26px;
+    text-decoration: none;
+  }
+  .b-h3:hover{
+    color: #00A8CC;
   }
   .b-s{
     color: #21243D;
@@ -106,11 +113,15 @@
 
 
   /* works start */
-  .w-h1{
+  .w-h1 , .w-h11{
+    text-decoration: none;
     font-size: 30px;
     font-weight: 700;
     font-family: 'Heebo';
     color: #21243D;
+  }
+  .w-h1:hover{
+    color: #00A8CC;
   }
   .w-p{
     font-size: 16px;
@@ -131,6 +142,12 @@
     font-size: 20px;
     font-weight: 400;
     font-family: 'Heebo';
+  }
+  .w-h5{
+    font-size: 22px;
+    font-weight: 400;
+    font-family: 'Heebo';
+    color: #21243D;
   }
   /* works end */
   /* footer start */
