@@ -187,6 +187,10 @@
     .fad{
       animation: fad 1s;
     }
+    .footer_icon{
+      font-size: 35px;
+      color: #21243D;
+    }
     /* navbar sm */
     .container2{
       width: 50%;
